@@ -1,4 +1,3 @@
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Catgo&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <h1>Hi, I'm Catgo</h1>
 <h2>About me</h2>
 <h3>My social networks</h3>
@@ -16,7 +15,7 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 <br>
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Catgo&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
 **Kamenshick/Kamenshick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
