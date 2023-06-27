@@ -3,7 +3,7 @@
 <h2>About me</h2>
 <h3>My social networks</h3>
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+<a href="https://www.youtube.com/channel/UCV5Akm6i8qOWLRgUcK6E0BQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 <h3>My Tech Stack</h3>
 <p>These are tools that I use/used for myself.</p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
