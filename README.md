@@ -1,13 +1,14 @@
-<style>
-body {
-backround: red;
-}
-</style>
-
-<body>
-  
-</body>
-
+<h1>Hi, I'm Catgo</h1>
+<hr>
+<h2>My social networks</h2>
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+<h2>My Tech Stack</h2>
+<p>These are tools that I use/used for myself or at work.</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<h3>I am using these DBMS</h3>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 <!--
 **Kamenshick/Kamenshick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
