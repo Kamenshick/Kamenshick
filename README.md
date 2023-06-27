@@ -10,7 +10,7 @@
 <h4>I am using these DBMS</h4
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 <!--
 **Kamenshick/Kamenshick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
