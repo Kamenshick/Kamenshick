@@ -16,7 +16,6 @@
 <a> 
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)</a>
 
 [![codewars](https://www.codewars.com/users/Catgo/badges/small)](https://www.codewars.com/users/Catgo) 
