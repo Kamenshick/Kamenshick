@@ -1,12 +1,13 @@
 <h1 style="color: #cd66cc">Hi, I'm Catgo</h1>
 <hr>
-<h2>My social networks</h2>
+<h2>About me</h2>
+<h3>My social networks</h3>
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-<h2>My Tech Stack</h2>
+<h3>My Tech Stack</h3>
 <p>These are tools that I use/used for myself or at work.</p>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<h3>I am using these DBMS</h3>
+<h4>I am using these DBMS</h4>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 <!--
