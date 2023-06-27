@@ -9,10 +9,14 @@
 <hr>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5logoColor=white"></a>
+<hr>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <h4>I am using these DBMS</h4
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+<br>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Catgo&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 <!--
 **Kamenshick/Kamenshick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
