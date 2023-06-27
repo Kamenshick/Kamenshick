@@ -1,5 +1,5 @@
 <h1 style="color: #cd66cc">Hi, I'm Catgo</h1>
-<hr>
+<hr style="background:red">
 <h2>About me</h2>
 <h3>My social networks</h3>
 <a href="https://discord.gg/ttb4nRC3Fx" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
