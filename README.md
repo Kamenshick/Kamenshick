@@ -10,6 +10,7 @@
 <h4>I am using these DBMS</h4>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 <!--
 **Kamenshick/Kamenshick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
