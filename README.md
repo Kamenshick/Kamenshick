@@ -1,8 +1,4 @@
 <h1>Hi, I'm Catgo</h1>
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Catgo&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-
 <h2>About me</h2>
 <h3>My social networks</h3>
 <a href="https://discord.gg/ttb4nRC3Fx" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -19,6 +15,8 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 <br>
+
+[![codewars](https://www.codewars.com/users/Catgo/badges/small)](https://www.codewars.com/users/Catgo) 
 
 <!--
 **Kamenshick/Kamenshick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
