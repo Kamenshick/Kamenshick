@@ -14,8 +14,6 @@
 <h4>I am using these DBMS</h4
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-<br>
-
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 [![codewars](https://www.codewars.com/users/Catgo/badges/small)](https://www.codewars.com/users/Catgo) 
