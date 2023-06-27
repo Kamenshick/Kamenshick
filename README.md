@@ -1,4 +1,4 @@
-<h1 color = red>Hi, I'm Catgo</h1>
+<h1 style="color: #cd66cc">Hi, I'm Catgo</h1>
 <hr>
 <h2>My social networks</h2>
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
