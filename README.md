@@ -4,7 +4,7 @@
 <a href="https://discord.gg/ttb4nRC3Fx" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCV5Akm6i8qOWLRgUcK6E0BQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 <h3>My Tech Stack</h3>
-<p>These are tools that I use/used for myself.</p>
+<p>These are tools that I used for myself.</p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <hr>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
