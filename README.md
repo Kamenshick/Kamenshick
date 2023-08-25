@@ -1,22 +1,12 @@
 <h1>Hi, I'm Catgo</h1>
+<h1>Hi, I'm Catgo</h1>
 <h2>About me</h2>
 <h3>My social networks</h3>
 <a href="https://discord.gg/ttb4nRC3Fx" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCV5Akm6i8qOWLRgUcK6E0BQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-<h3>My Tech Stack</h3>
-<p>These are tools that I used for myself.</p>
+<h1>Bad programmer</h1>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<hr>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5logoColor=white"></a>
-<hr>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<h4>I am using these DBMS</h4
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<a> 
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)</a>
 
 [![codewars](https://www.codewars.com/users/Catgo/badges/small)](https://www.codewars.com/users/Catgo) 
 
